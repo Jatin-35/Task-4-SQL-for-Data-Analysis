@@ -2,7 +2,7 @@
 
 ## 📁 Overview
 
-This repository contains the solution for **Task 3** of the Data Analyst Internship, focusing on writing SQL queries to extract, analyze, and manipulate data from a relational database. This task showcases proficiency in essential SQL operations and query optimization techniques.
+This repository contains the solution for **Task 4** of the Data Analyst Internship, focusing on writing SQL queries to extract, analyze, and manipulate data from a relational database. This task showcases proficiency in essential SQL operations and query optimization techniques.
 
 ---
 
